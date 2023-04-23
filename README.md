@@ -1,4 +1,4 @@
-# FullScreenWithOutHeight
+# Full Screen WithOut Height
 
 ```css
 html, body {
