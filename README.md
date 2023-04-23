@@ -1,2 +1,8 @@
 # FullScreenWithOutHeight
-CSS code for full screen website
+
+```css
+html, body {
+  position: absolute;
+  inset: 0;
+}
+```
